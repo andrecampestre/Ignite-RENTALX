@@ -1,6 +1,5 @@
 import csvParse from "csv-parse";
 import fs from "fs";
-import { resolveConfig } from "prettier";
 
 import { ICategoriesRepository } from "../../repositories/ICategoriesRepository";
 
